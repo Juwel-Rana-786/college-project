@@ -1,0 +1,53 @@
+2023-06-19T06:00:20+00:00 INFO {"url":"mega-electronics-logo.svg","data":{"errors":{"http_request_failed":["A valid URL was not provided."]},"error_data":[]}}
+2023-06-19T06:00:29+00:00 INFO {"url":"wd-em-brand-asus.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5000 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:00:35+00:00 INFO {"url":"wd-em-brand-canon.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5011 milliseconds with 0 out of 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:00:58+00:00 INFO {"url":"headsets.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5005 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:01:10+00:00 INFO {"url":"gaming-monitors.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5008 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:01:15+00:00 INFO {"url":"gaming-monitors.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5006 milliseconds"]},"error_data":[]}}
+2023-06-19T06:01:25+00:00 INFO {"url":"scanners.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5014 milliseconds with 0 out of 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:01:32+00:00 INFO {"url":"Games-Entertainment.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5013 milliseconds with 0 out of 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:01:37+00:00 INFO {"url":"Games-Entertainment.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5013 milliseconds"]},"error_data":[]}}
+2023-06-19T06:01:44+00:00 INFO {"url":"Hardware-Components.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5009 milliseconds"]},"error_data":[]}}
+2023-06-19T06:01:58+00:00 INFO {"url":"disc-drives.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5000 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:02:00+00:00 INFO {"url":"disc-drives.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5014 milliseconds with 0 out of 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:02:03+00:00 INFO {"url":"disc-drives.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5014 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:02:16+00:00 INFO {"url":"hdd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5003 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:02:21+00:00 INFO {"url":"hdd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5003 milliseconds"]},"error_data":[]}}
+2023-06-19T06:02:26+00:00 INFO {"url":"hdd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5006 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:02:34+00:00 INFO {"url":"processors.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5013 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:02:39+00:00 INFO {"url":"processors.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5002 milliseconds"]},"error_data":[]}}
+2023-06-19T06:02:44+00:00 INFO {"url":"processors.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5007 milliseconds"]},"error_data":[]}}
+2023-06-19T06:02:49+00:00 INFO {"url":"ssd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5009 milliseconds"]},"error_data":[]}}
+2023-06-19T06:02:54+00:00 INFO {"url":"ssd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5008 milliseconds"]},"error_data":[]}}
+2023-06-19T06:02:59+00:00 INFO {"url":"ssd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5010 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:04+00:00 INFO {"url":"Home-Appliance.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5004 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:09+00:00 INFO {"url":"Home-Appliance.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5014 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:14+00:00 INFO {"url":"Home-Appliance.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5005 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:20+00:00 INFO {"url":"Laptops-Tablets-PCs.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5010 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:25+00:00 INFO {"url":"Laptops-Tablets-PCs.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5013 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:30+00:00 INFO {"url":"Laptops-Tablets-PCs.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5001 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:35+00:00 INFO {"url":"laptops-Apple-MacBook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5003 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:40+00:00 INFO {"url":"laptops-Apple-MacBook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5008 milliseconds"]},"error_data":[]}}
+2023-06-19T06:03:45+00:00 INFO {"url":"laptops-Apple-MacBook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5009 milliseconds"]},"error_data":[]}}
+2023-06-19T06:04:08+00:00 INFO {"url":"hdd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5013 milliseconds"]},"error_data":[]}}
+2023-06-19T06:04:13+00:00 INFO {"url":"hdd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5009 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:04:24+00:00 INFO {"url":"ssd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5002 milliseconds with 0 out of 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:04:29+00:00 INFO {"url":"ssd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5014 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:04:34+00:00 INFO {"url":"ssd-drive.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5004 milliseconds"]},"error_data":[]}}
+2023-06-19T06:04:39+00:00 INFO {"url":"Home-Appliance.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5011 milliseconds with 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:04:44+00:00 INFO {"url":"Home-Appliance.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5013 milliseconds"]},"error_data":[]}}
+2023-06-19T06:04:49+00:00 INFO {"url":"Home-Appliance.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5011 milliseconds"]},"error_data":[]}}
+2023-06-19T06:04:54+00:00 INFO {"url":"Laptops-Tablets-PCs.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5001 milliseconds"]},"error_data":[]}}
+2023-06-19T06:04:59+00:00 INFO {"url":"Laptops-Tablets-PCs.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5015 milliseconds with 0 out of 0 bytes received"]},"error_data":[]}}
+2023-06-19T06:05:04+00:00 INFO {"url":"Laptops-Tablets-PCs.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5010 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:09+00:00 INFO {"url":"laptops-Apple-MacBook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5014 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:14+00:00 INFO {"url":"laptops-Apple-MacBook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5001 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:19+00:00 INFO {"url":"laptops-Apple-MacBook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5002 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:24+00:00 INFO {"url":"business-laptop.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5009 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:29+00:00 INFO {"url":"business-laptop.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5007 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:34+00:00 INFO {"url":"business-laptop.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5008 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:39+00:00 INFO {"url":"gaming-laptop.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5006 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:44+00:00 INFO {"url":"gaming-laptop.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5008 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:49+00:00 INFO {"url":"gaming-laptop.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5005 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:54+00:00 INFO {"url":"ultrabook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5003 milliseconds"]},"error_data":[]}}
+2023-06-19T06:05:59+00:00 INFO {"url":"ultrabook.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5006 milliseconds"]},"error_data":[]}}
